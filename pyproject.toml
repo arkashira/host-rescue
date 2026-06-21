@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "axentx-product"
+version = "0.1.0"
+description = "A tiny utility package for the AxentX product pipeline."
+authors = [{name = "AxentX Team", email = "team@axentx.io"}]
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
